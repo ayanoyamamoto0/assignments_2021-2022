@@ -1,0 +1,14 @@
+﻿airport_code,country,city,airport_name,utc
+VIE,Austria,Vienna,Vienna International Airport,01:00:00
+BRU,Belgium,Brussels,Brussels Airport,01:00:00
+PRG,Czech Republic,Prague,Vaclav Havel Airport Prague,01:00:00
+CDG,France,Paris,Charles de Gaulle Airport,01:00:00
+BER,Germany,Berlin,Berlin Brandenburg Airport,01:00:00
+BUD,Hungary,Budapest,Budapest Ferenc Liszt International Airport,01:00:00
+LIN,Italy,Milan,Linate Airport,01:00:00
+AMS,Netherlands,Amsterdam,Amsterdam Airport Schiphol,01:00:00
+LIS,Portugal,Lisbon,Lisbon Portela Airport,00:00:00
+MAD,Spain,Madrid,Adolfo Suarez Madrid–Barajas Airport,01:00:00
+GVA,Switzerland,Geneva,Geneva Airport,01:00:00
+LHR,United Kingdom,London,Heathrow Airport,00:00:00
+DUB,Ireland,Dublin,Dublin Airport,00:00:00
