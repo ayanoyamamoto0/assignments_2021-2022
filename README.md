@@ -1,5 +1,5 @@
 # assignments_2021-2022
-Assignments from Postgraduate Certificate in Data Science course completed in 2022
+Assignments from Postgraduate Certificate in Fundamentals of Data Science course completed in 2022
 
 ### Data Analytics
 * [Thoracic Surgery Survival Prediction](https://github.com/ayanoyamamoto0/assignments_2021-2022/tree/main/data_analytics)
