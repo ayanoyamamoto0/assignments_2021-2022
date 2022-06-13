@@ -1,4 +1,4 @@
-# A&E Operation :ambulance:: Project Overview
+# :ambulance: A&E Operation: Project Overview
 * Created a console menu application to support a hospital's accident and emergency (A&E) operation
 * When the patient is admitted to the department, the admission information recorded by the receptionist are stored in a Singly Linked List
 * Application informs the triage nurse of the next patient to see in a First In First Out (FIFO) order
