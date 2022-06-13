@@ -1,4 +1,4 @@
-# Address Book :book:: Project Overview
+# :book: Address Book: Project Overview
 
 * Created an address book application that can be used through console menu
 * Simple console login to use the application
