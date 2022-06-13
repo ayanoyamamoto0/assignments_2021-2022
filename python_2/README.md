@@ -1,8 +1,8 @@
 # A&E Operation :ambulance:: Project Overview
-* Created an application to support the accident and emergency (A&E) department’s operation in a hospital
-  * When the patient is admitted to the department, the admission information recorded by the receptionist are stored in a Singly Linked List
-  * Application informs the triage nurse of the next patient to see in a First In First Out (FIFO) order
-  * Application informs the doctor of the next patient to see based on the priority values assigned by triage nurses to ensure that the patient with the most serious condition gets seen by the doctor first
+* Created a console menu application to support a hospital's accident and emergency (A&E) operation
+* When the patient is admitted to the department, the admission information recorded by the receptionist are stored in a Singly Linked List
+* Application informs the triage nurse of the next patient to see in a First In First Out (FIFO) order
+* Application informs the doctor of the next patient to see based on the priority values assigned by triage nurses to ensure that the patient with the most serious condition gets seen by the doctor first
 * Full CRUD on the patients' information
 * Patients and Treatment information are stored in a database file
 
