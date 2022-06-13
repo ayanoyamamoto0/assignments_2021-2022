@@ -4,7 +4,7 @@
   * Application informs the triage nurse of the next patient to see in a First In First Out (FIFO) order
   * Application informs the doctor of the next patient to see based on the priority values assigned by triage nurses to ensure that the patient with the most serious condition gets seen by the doctor first
 * Full CRUD on the patients' information
-* Patients and Treatment data are stored in a db file
+* Patients and Treatment information are stored in a database file
 
 ## Code and Resources Used
 * **Python Version**: 3.8.8
