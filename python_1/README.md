@@ -3,7 +3,7 @@
 * Created an address book application that can be used through console menu
 * Simple console login to use the application
 * Full CRUD on the contacts in the address book
-* Data is saved in CSV files
+* Data is stored in CSV files
 
 ## Code and Resources Used
 * **Python Version**: 3.8.8
