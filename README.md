@@ -5,7 +5,7 @@ Assignments from Postgraduate Certificate in Data Science course completed in 20
 * [Thoracic Surgery Survival Prediction](https://github.com/ayanoyamamoto0/assignments_2021-2022/tree/main/data_analytics)
 
 ### Data Wrangling
-* [Employee Reviews](https://github.com/ayanoyamamoto0/assignments_2021-2022/tree/main/data_wrangling_1)
+* :briefcase: [Employee Reviews](https://github.com/ayanoyamamoto0/assignments_2021-2022/tree/main/data_wrangling_1)
 * [Climate Change](https://github.com/ayanoyamamoto0/assignments_2021-2022/tree/main/data_wrangling_2)
 
 ### Information Systems
