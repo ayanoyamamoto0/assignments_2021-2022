@@ -5,8 +5,8 @@ Assignments from Postgraduate Certificate in Fundamentals of Data Science course
 * :hospital: [Thoracic Surgery Survival Prediction](https://github.com/ayanoyamamoto0/assignments_2021-2022/tree/main/data_analytics)
 
 ### Data Wrangling
-* :briefcase: [Employee Reviews](https://github.com/ayanoyamamoto0/assignments_2021-2022/tree/main/data_wrangling_1)
 * :earth_africa: [Climate Change](https://github.com/ayanoyamamoto0/assignments_2021-2022/tree/main/data_wrangling_2)
+* :briefcase: [Employee Reviews](https://github.com/ayanoyamamoto0/assignments_2021-2022/tree/main/data_wrangling_1)
 
 ### Information Systems
 * :airplane: [Airline Database](https://github.com/ayanoyamamoto0/assignments_2021-2022/tree/main/mysql)
