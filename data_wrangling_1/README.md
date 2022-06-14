@@ -11,3 +11,4 @@
 * Replaced 'none' with `np.nan`
 * Converted strings to date and numerical formats where appropriate
 * Imputated missing values in star rating columns with median values for each company per star rating
+* For Best Reviewed Locations, filtered the dataframe to only consider locations with above-mean number of reviews to exclude those with one 5-star ratings
