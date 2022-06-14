@@ -1,5 +1,5 @@
 # :earth_africa:Climate Change: Project Overview
-* Created a report on climate change using data from 6 different souces from APIs, HTML, and CSV files
+* Created a [report](https://github.com/ayanoyamamoto0/assignments_2021-2022/blob/main/data_wrangling_2/data_wrangling_2_presentation.pdf) on climate change using data from 6 different souces from APIs, HTML, and CSV files
 * Demonstrated use of pycountry and geopandas to assign ISO 3166-1 alpha-3 codes to each dataset for ease of merging
 * Inspected and imputated data
 * Visualised results using geopandas and seaborn
