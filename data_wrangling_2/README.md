@@ -15,3 +15,10 @@
   * Wikipedia: [List of countries by carbon dioxide emissions](https://en.wikipedia.org/wiki/List_of_countries_by_carbon_dioxide_emissions)
   * Wikipedia: [List of countries by renewable electricity production](https://en.wikipedia.org/wiki/List_of_countries_by_renewable_electricity_production)
   * Kaggle: [Average Temperature per country per year](https://www.kaggle.com/code/akshaychavan/average-temperature-per-country-per-year/data?select=matYearCountry.csv)
+
+## Requirements
+When running [data_wrangling_2.ipynb](https://github.com/ayanoyamamoto0/assignments_2021-2022/blob/main/data_wrangling_2/data_wrangling_2.ipynb) please insert your API key and and API secret in
+```
+API_KEY = 'PLEASE_INSERT_YOUR_API_KEY'
+API_SECRET = 'PLEASE_INSERT_YOUR_API_SECRET'
+```
