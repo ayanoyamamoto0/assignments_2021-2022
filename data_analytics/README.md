@@ -18,6 +18,11 @@ Clamp transformation on FEV1 (the amount of air you can force from your lungs in
   * K-Neighbors Classifier
   * Support Vector Classification (SVC)
   * K-Means Clustering
+* Evaluation methods used
+  * k-fold cross validation with k = 5
+  * Plot confusion matrix
+  * Average class accuracy based on harmonic means
+  * Plot ROC curves for visual comparison
 * In an attempt to correct the data imbalance, 4 methods were used
   * Cost sensitive learning where setting `class_weight = 'balanced'` was available
   * Random Oversampling
