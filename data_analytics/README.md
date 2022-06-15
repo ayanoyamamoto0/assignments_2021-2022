@@ -21,7 +21,7 @@ Decision Tree Classifier model with Random Over Sampler outperformed the other a
 #### The highest scoring models according to average class accuracy (harmonic mean)
 
 | Model  | Average Class Accuracy (Harmonic Mean) |
-| ----------- | ----------- |
+| ----------- | -----------: |
 | DecisionTreeClassifier, Random  | 0.928 |
 | KNeighborsClassifier, Random  | 0.859 |
 | DecisionTreeClassifier, ADASYN  | 	0.839 |
