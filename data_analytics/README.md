@@ -16,11 +16,11 @@ Clamp transformation on FEV1 (the amount of air you can force from your lungs in
 
 
 ## Model Performance
-The Decision Tree Classifier model with Random Over Sampler outperformed the other approaches in both average class accuracy (harmonic mean) and area under the ROC curve.
+Decision Tree Classifier model with Random Over Sampler outperformed the other approaches in both average class accuracy (harmonic mean) and area under the ROC curve.
 
 #### The highest scoring models according to average class accuracy (harmonic mean)
 
-| Model  | Average class accuracy (harmonic mean) |
+| Model  | Average Class Accuracy (Harmonic Mean) |
 | ----------- | ----------- |
 | DecisionTreeClassifier, Random  | 0.928 |
 | KNeighborsClassifier, Random  | 0.859 |
