@@ -9,4 +9,24 @@
 * **Thoracic Surgery Dataset**: https://archive.ics.uci.edu/ml/datasets/Thoracic+Surgery+Data
 * **Relevant Paper**: https://www.sciencedirect.com/science/article/abs/pii/S1568494613002627
 
+## Data Cleaning
+Clamp transformation on FEV1 (the amount of air you can force from your lungs in one second) data outliers that were unlikely to be representative of human lung capacity. Upper clamp threshold calculated as the 3rd quartile plus 1.5 times the inter-quartile range.
 
+## Model Building
+
+
+## Model Performance
+The Decision Tree Classifier model with Random Over Sampler outperformed the other approaches in both average class accuracy (harmonic mean) and area under the ROC curve.
+
+#### The highest scoring models according to average class accuracy (harmonic mean)
+
+| Model  | Average class accuracy (harmonic mean) |
+| ----------- | ----------- |
+| DecisionTreeClassifier, Random  | 0.928 |
+| KNeighborsClassifier, Random  | 0.859 |
+| DecisionTreeClassifier, Random  | 0.928 |
+| SVC, SMOTE  | 0.816 |
+| KNeighborsClassifier, SMOTE  | 0.814 |
+
+#### The highest scoring models according to areas under ROC curves
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
