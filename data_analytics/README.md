@@ -24,7 +24,7 @@ The Decision Tree Classifier model with Random Over Sampler outperformed the oth
 | ----------- | ----------- |
 | DecisionTreeClassifier, Random  | 0.928 |
 | KNeighborsClassifier, Random  | 0.859 |
-| DecisionTreeClassifier, Random  | 0.928 |
+| DecisionTreeClassifier, ADASYN  | 	0.839 |
 | SVC, SMOTE  | 0.816 |
 | KNeighborsClassifier, SMOTE  | 0.814 |
 
