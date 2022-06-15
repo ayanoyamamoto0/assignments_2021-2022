@@ -13,7 +13,16 @@
 Clamp transformation on FEV1 (the amount of air you can force from your lungs in one second) data outliers that were unlikely to be representative of human lung capacity. Upper clamp threshold calculated as the 3rd quartile plus 1.5 times the inter-quartile range.
 
 ## Model Building
-
+* 4 classification models used
+  * Decision Tree Classifier
+  * K-Neighbors Classifier
+  * Support Vector Classification (SVC)
+  * K-Means Clustering
+* In an attempt to correct the data imbalance, 4 methods were used
+  * Cost sensitive learning where setting `class_weight = 'balanced'` was available
+  * Random Oversampling
+  * Synthetic Minority Oversampling (SMOTE)
+  * Adaptive Synthetic (ADASYN)
 
 ## Model Performance
 Decision Tree Classifier model with Random Over Sampler outperformed the other approaches in both average class accuracy (harmonic mean) and area under the ROC curve.
