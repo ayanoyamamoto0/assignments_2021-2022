@@ -29,4 +29,4 @@ The Decision Tree Classifier model with Random Over Sampler outperformed the oth
 | KNeighborsClassifier, SMOTE  | 0.814 |
 
 #### The highest scoring models according to areas under ROC curves
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![ROC Curve Analysis](https://github.com/ayanoyamamoto0/assignments_2021-2022/blob/main/data_analytics/roc_curve.png)
